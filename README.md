@@ -17,9 +17,8 @@ An Android app demonstrating how to fetch data from a REST API using Retrofit wi
 
 
 ### Screenshots
+## Postfragments3 and JsonDisplayActivity
 
-
-| PostFragment3 (Post Display) | JsonDisplayActivity (Raw JSON) |
 |------------------------------|-------------------------------|
 | (<img width="1920" height="1080" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/d1a4f4a5-78c6-49d6-9a25-4f624ead08fa" />)
  (<img width="1920" height="1080" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/4f762372-0647-4633-8566-1d45f73b24ea" />)
