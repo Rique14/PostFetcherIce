@@ -1,6 +1,6 @@
 # PostFetcherIce
 
-An Android app demonstrating how to fetch data from a REST API using Retrofit with query parameters, display the data in a fragment, and show the raw JSON data on a separate screen.
+An Android app demonstrating how to fetch data from a REST API using Retrofit with query parameters, display the data in a fragment and show the raw JSON data on a separate screen.
 
 ---
 
