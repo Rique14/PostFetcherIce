@@ -4,18 +4,6 @@ An Android app demonstrating how to fetch data from a REST API using Retrofit wi
 
 ---
 
-## Table of Contents
-
-- [Features](#features)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Dependencies](#dependencies)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## Features
 
 - Fetches post data from the [JSONPlaceholder](https://jsonplaceholder.typicode.com/posts?userId=1&id=5) API using Retrofit with query parameters.
@@ -47,10 +35,9 @@ An Android app demonstrating how to fetch data from a REST API using Retrofit wi
 - A device or emulator running Android API level 21 or higher
 - Internet connection for API calls
 
-### Steps
+### Repository
 
-1. Clone the repository:
+Clone the repository:
 
-   ```bash
-  https://github.com/Rique14/PostFetcherIce.git
+https://github.com/Rique14/PostFetcherIce.git
 
