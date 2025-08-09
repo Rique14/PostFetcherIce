@@ -33,8 +33,8 @@ An Android app demonstrating how to fetch data from a REST API using Retrofit wi
 
 | PostFragment3 (Post Display) | JsonDisplayActivity (Raw JSON) |
 |------------------------------|-------------------------------|
-| (<img width="1920" height="1080" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/9850811b-c7d5-440b-b423-816ae2eec8fe" />)
-) (<img width="1920" height="1080" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/fb7f2d2f-becc-4f4f-8cf6-8ce7def91730" />)
+| (<img width="1920" height="1080" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/d1a4f4a5-78c6-49d6-9a25-4f624ead08fa" />)
+ (<img width="1920" height="1080" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/4f762372-0647-4633-8566-1d45f73b24ea" />)
 |
 
 ---
@@ -52,5 +52,5 @@ An Android app demonstrating how to fetch data from a REST API using Retrofit wi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Rique14/PostFetcherIce.git
-   [cd PostFetcherIce](https://github.com/Rique14/PostFetcherIce/tree/master)
+  https://github.com/Rique14/PostFetcherIce.git
+
